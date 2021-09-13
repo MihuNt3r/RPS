@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hblF12k7VT5IaY2EdRrNJmXLOVp+v1tO3uKirGIENHU+i8AJVAlFziBm4+jO0/eC3Jo3SFLT/yA9U8nHdZS7Yg==",
+  "dgSpecHash": "MKx9Ujyk+KJSYXoIZldADf1iDJqVkeSsY2DrSM0QzYIvJrUOi0SDBWk2tAVgSEiTJ4XoO3Q67LPk5HZqws1jOQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Миша_MSI\\source\\repos\\RPS\\RPS.csproj",
+  "projectFilePath": "C:\\Users\\Миша_MSI\\Desktop\\RPSProd\\RPS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Миша_MSI\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",

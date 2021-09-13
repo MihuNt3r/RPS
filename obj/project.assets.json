@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Миша_MSI\\source\\repos\\RPS\\RPS.csproj",
+      "projectUniqueName": "C:\\Users\\Миша_MSI\\Desktop\\RPSProd\\RPS.csproj",
       "projectName": "RPS",
-      "projectPath": "C:\\Users\\Миша_MSI\\source\\repos\\RPS\\RPS.csproj",
+      "projectPath": "C:\\Users\\Миша_MSI\\Desktop\\RPSProd\\RPS.csproj",
       "packagesPath": "C:\\Users\\Миша_MSI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Миша_MSI\\source\\repos\\RPS\\obj\\",
+      "outputPath": "C:\\Users\\Миша_MSI\\Desktop\\RPSProd\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
